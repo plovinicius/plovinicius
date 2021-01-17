@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.plovinicius.vercel.app/api?username=plovinicius&count_private=true&show_icons=true&theme=midnight-purple&repo=github-readme-stats" />
+  <img align="center" src="https://github-readme-stats.plovinicius.vercel.app/api?username=plovinicius&count_private=true&show_icons=true&theme=midnight-purple" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.plovinicius.vercel.app/api/pin/?username=plovinicius&repo=convoychat" />
+  <img align="center" src="https://github-readme-stats.plovinicius.vercel.app/api/top_langs/?username=plovinicius&theme=midnight-purple&layout=compact" />
 </a>
