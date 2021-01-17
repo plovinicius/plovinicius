@@ -5,12 +5,11 @@
 </a>
 
 <br/>
+<br/>
 
 ### :headphones: Spotify Playing
 
 [![Spotify](https://novatorem.plovinicius.vercel.app/api/spotify)](https://open.spotify.com/user/plovinicius)
-
-<br/>
 
 ### :zap: Recent Activity
 
