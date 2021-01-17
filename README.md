@@ -13,5 +13,5 @@
 
 <br/>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.plovinicius.vercel.app/api?username=plovinicius&count_private=true&show_icons=true&theme=midnight-purple&icon_color=03ECFC&title_color=03ECFC&include_all_commits=true" />
+  <img align="center" src="https://github-readme-stats.plovinicius.vercel.app/api?username=plovinicius&count_private=true&show_icons=true&theme=midnight-purple&icon_color=03ECFC&title_color=03ECFC&include_all_commits=true&cache_seconds=1800" />
 </a>
